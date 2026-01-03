@@ -12,7 +12,7 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 The data represents real transactional records from December 2010 to December 2011.
 
 ## Repository Contents
-- `BDM_Final_Analysis.ipynb`: Final reproducible analysis notebook
+- `BDM.ipynb`: Final reproducible analysis notebook
 - Supporting cleaned data files used in the analysis
 
 ## Reproducibility
